@@ -11,6 +11,6 @@ const ddramoss = {
 ```
 
 You can find me 🌐
-- [Linkedin](linkedin.com/in/ddramoss)
+- [Linkedin](https://www.linkedin.com/in/ddramoss/)
 - [Stack Overflow ES](https://es.stackoverflow.com/users/184412/diego-ramos)
 - [HackerRank](https://www.hackerrank.com/dieqo_ramos)
